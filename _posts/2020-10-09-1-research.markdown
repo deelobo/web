@@ -5,9 +5,9 @@ category: my work
 title: Research
 description: Research
 ---
-  <br>
+
   My research focuses on real-world phenomena that affect the resilience of social-ecological systems.
-  </br>
+  <br> </br>
   <br>
   I strive to use my training as both conservation scientist and forest ecologist to build scientific understanding on how human agency, actions, and activities impact social and ecological resilience, and how changes in resilience levels of social-ecological systems affect their capacity to sustain healthy ecosystems, livelihoods, and good quality of life.
   <br/>
