@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: my work
+title: Research
+description: Research
+---
+  I am interested in exploring real-world phenomena that affect the resilience of social-ecological systems, i.e., the capacity to tolerate, cope with, and adjust to changing social or environmental conditions while sustaining critical aspects of structure, function, and identity. I strive to use my training as both conservation scientist and forest ecologist to build scientific understanding on how human agency, actions, and activities impact social and ecological resilience, and how changes in resilience levels of social-ecological systems affect their capacity to sustain healthy ecosystems, livelihoods, and good quality of life. Also central to my work is developing tools to translate my research into solutions for socio-ecological problems.
